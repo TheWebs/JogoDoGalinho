@@ -1,0 +1,20 @@
+﻿<Controls:MetroWindow x:Class="JogoDoGalinho.MainWindow"
+                      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                      xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+                      Title="Jogo do Galinho"
+                      Height="153.922"
+                      Width="180.882" ResizeMode="CanMinimize">
+    <Grid>
+        <Button x:Name="b_1" Content="" HorizontalAlignment="Left" Height="31" Margin="10,10,0,0" VerticalAlignment="Top" Width="30" Click="b_1_Click"/>
+        <Button x:Name="b_2" Content="" HorizontalAlignment="Left" Height="31" Margin="45,10,0,0" VerticalAlignment="Top" Width="30" Click="b_2_Click"/>
+        <Button x:Name="b_3" Content="" HorizontalAlignment="Left" Height="31" Margin="80,10,0,0" VerticalAlignment="Top" Width="30" Click="b_3_Click"/>
+        <Button x:Name="b_4" Content="" HorizontalAlignment="Left" Height="31" Margin="10,46,0,0" VerticalAlignment="Top" Width="30" Click="b_4_Click"/>
+        <Button x:Name="b_5" Content="" HorizontalAlignment="Left" Height="31" Margin="45,46,0,0" VerticalAlignment="Top" Width="30" Click="b_5_Click"/>
+        <Button x:Name="b_6" Content="" HorizontalAlignment="Left" Height="31" Margin="80,46,0,0" VerticalAlignment="Top" Width="30" Click="b_6_Click"/>
+        <Button x:Name="b_7" Content="" HorizontalAlignment="Left" Height="31" Margin="10,82,0,0" VerticalAlignment="Top" Width="30" Click="b_7_Click"/>
+        <Button x:Name="b_8" Content="" HorizontalAlignment="Left" Height="31" Margin="45,82,0,0" VerticalAlignment="Top" Width="30" Click="b_8_Click"/>
+        <Button x:Name="b_9" Content="" HorizontalAlignment="Left" Height="31" Margin="80,82,0,0" VerticalAlignment="Top" Width="30" Click="b_9_Click"/>
+
+    </Grid>
+</Controls:MetroWindow>
